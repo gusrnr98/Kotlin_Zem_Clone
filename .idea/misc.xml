@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable-v24/clear.xml" value="0.1" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable-v24/compliment_click.xml" value="0.1645" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable-v24/habit_item_bg.xml" value="0.1915" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable-v24/habit_item_bg_c.xml" value="0.179" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1955" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable-v24/layout_bg.xml" value="0.1915" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable-v24/zemcon_count.xml" value="0.1215" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/alramlayout.xml" value="0.1" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/approval.xml" value="0.19" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/backicon.xml" value="0.1915" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/bg_banner.xml" value="0.244" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/bg_banner_tail.xml" value="0.21" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/bg_banner_top.xml" value="0.295" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/bg_zemcon.xml" value="0.244" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/button_plus.xml" value="0.2475" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/button_plus_lock.xml" value="0.2475" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/check_textcolor_selector.xml" value="0.352" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/check_textsize_selector.xml" value="0.352" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/clearbt.xml" value="0.1385" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/compliment_selector.xml" value="0.1645" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/deleteicon.xml" value="0.233" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/editicon.xml" value="0.233" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/everday_textcolor_selector.xml" value="0.149" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/everdaybt.xml" value="0.271" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/gradient_bg.xml" value="0.1" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/habit_item_bt.xml" value="0.2695" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/habit_item_bt_c.xml" value="0.133" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.281" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.2475" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1955" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/minus.xml" value="0.2475" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/minus_lock.xml" value="0.2475" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/rbth1_textcolor_selector.xml" value="0.241" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/rbth_center_selector.xml" value="0.1205" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/rbth_left_selector.xml" value="0.2185" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/rbth_right_selector.xml" value="0.2185" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/rbth_textcolor_selector.xml" value="0.2185" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/selector.xml" value="0.1945" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/selector_tab_center.xml" value="0.1465" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/selector_tab_left.xml" value="0.1465" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/selector_tab_right.xml" value="0.281" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/swich_selector.xml" value="0.2125" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/swich_thumb.xml" value="0.2125" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/swich_track_off.xml" value="0.2135" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/swich_track_on.xml" value="0.2125" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/switch_thumb.xml" value="0.1" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/switch_track_off.xml" value="0.1205" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/switch_track_on.xml" value="0.1205" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/tab_background.xml" value="0.1945" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/tab_background_selected.xml" value="0.1945" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/tab_background_unselected.xml" value="0.1" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/tab_bg.xml" value="0.1" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/tab_item.xml" value="0.222" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/tab_item1.xml" value="0.173" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/tab_item2.xml" value="0.1" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/drawable/zemconsize_background.xml" value="0.2475" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/font/font_text.xml" value="0.1" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout-v29/fragment_firstperiod.xml" value="0.3494791666666667" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/activity_add_habit.xml" value="0.33" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/activity_habit_info.xml" value="0.5" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/activity_habit_main.xml" value="0.22" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/activity_intro.xml" value="0.2" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/activity_loading.xml" value="0.34739583333333335" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/activity_main.xml" value="0.34739583333333335" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/cheermess.xml" value="0.1590909090909091" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/compliment_item.xml" value="0.23899102180418982" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_add_habit_step1.xml" value="0.28858486532706284" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_add_habit_step2.xml" value="0.33" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_add_habit_step3.xml" value="0.22962962962962963" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_alram.xml" value="0.22" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_approval.xml" value="0.23899102180418982" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_asd.xml" value="0.30055579307396324" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_cancel.xml" value="0.22" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_day.xml" value="0.15006412997007268" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_dayofweek.xml" value="0.25" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_end.xml" value="0.1875" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_firstperiod.xml" value="0.25" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_ing.xml" value="0.1875" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_my.xml" value="0.25" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_my_day.xml" value="0.16203505771697307" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_myday.xml" value="0.16203505771697307" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_secondperiod.xml" value="0.19281744335185977" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_tab.xml" value="0.2877297990594271" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_wait.xml" value="0.1875" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_zemcon.xml" value="0.67" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/fragment_zemconbanner.xml" value="0.33" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/habit_item.xml" value="0.22" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/habit_wait_item.xml" value="0.33" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/habit_wait_item_c.xml" value="0.25" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/habittypeitem.xml" value="0.2" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/layout_tab_layout_my.xml" value="0.13764044943820225" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/layout/toast_border.xml" value="0.1" />
+        <entry key="..\:/heuiyong/Andorid/kotlin_Zem/app/src/main/res/mipmap-anydpi-v26/zemconsize.xml" value="0.2475" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
