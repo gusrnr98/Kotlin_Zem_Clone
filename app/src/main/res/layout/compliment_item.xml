@@ -5,8 +5,8 @@
     android:id="@+id/complimentlay"
     android:layout_width="140dp"
     android:layout_height="140dp"
-    android:layout_marginLeft="10dp"
-    android:layout_marginRight="10dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
     android:layout_marginBottom="10dp">
     <androidx.constraintlayout.utils.widget.ImageFilterView
         android:id="@+id/complimentimage"
